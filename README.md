@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rose, am a Tanzanian.
 - 👀 I’m interested in  website development and mobile application.
-- 💞️ am software develper both Website and Mobile Application.
+- 💞️ am software develper, Website and Mobile Application.
 - 📫 How to reach me ...you can reach me by my github account
 
 <!---
